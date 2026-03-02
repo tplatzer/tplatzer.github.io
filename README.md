@@ -1,5 +1,5 @@
 # Meine Seite
 
-[Kontakt](contact.md)
+| [Kontakt](contact.md) |
 
 _Hier steht der Inhalt._
