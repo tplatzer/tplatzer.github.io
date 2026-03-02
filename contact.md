@@ -1,5 +1,9 @@
 # This is a Contact Site
 
+[Main Page](README.md) | [Kontakt](contact.md)
+
+_Here is some Random Java code_
+
 ```Java
 import java.util.Random;
 
